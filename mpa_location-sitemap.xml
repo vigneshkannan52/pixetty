@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- This sitemap was dynamically generated on March 2, 2024 at 7:24 am by All in One SEO v4.5.7.3 - the original SEO plugin for WordPress. -->
+
+<?xml-stylesheet type="text/xsl" href="https://vigneshkannan52.github.io/pixetty/default-sitemap.xsl?sitemap=mpa_location"?>
+<urlset
+	xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+	xmlns:xhtml="http://www.w3.org/1999/xhtml"
+	xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+>
+	<url>
+		<loc><![CDATA[https://vigneshkannan52.github.io/pixetty/location/location-2/]]></loc>
+		<lastmod><![CDATA[2022-04-15T15:27:23+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+	</url>
+	<url>
+		<loc><![CDATA[https://vigneshkannan52.github.io/pixetty/location/location-1/]]></loc>
+		<lastmod><![CDATA[2022-04-15T15:25:42+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+	</url>
+</urlset>

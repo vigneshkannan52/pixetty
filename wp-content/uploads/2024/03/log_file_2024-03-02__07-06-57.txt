@@ -1,0 +1,50 @@
+
+---Downloaded files---
+The import files for: Pixetty Demo Import were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/pixetty
+Data file = E:\Wamp\www\pixetty/wp-content/themes/pixetty/assets/demo-data/pixetty.xml
+Widget file = E:\Wamp\www\pixetty/wp-content/themes/pixetty/assets/demo-data/pixetty-widgets.wie
+Customizer file = not defined!
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Right Sidebar : 
+
+Block - No Title - Imported
+
+Foooter Left : 
+
+Block - No Title - Imported
+
+Foooter Right : 
+
+Block - No Title - Imported
+Block - No Title - Imported
+
+
+
+---ocdi/after_import---
+
