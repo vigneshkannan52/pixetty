@@ -1,0 +1,36 @@
+@font-face {
+    font-family: "pixetty";
+    src: url("https://vigneshkannan52.github.io/pixetty/wp-content/themes/pixetty/fonts/pixetty-icons/pixetty.ttf?e0a05a7806f91c68b4a3fbda3d984ead") format("truetype"),
+url("https://vigneshkannan52.github.io/pixetty/wp-content/themes/pixetty/fonts/pixetty-icons/pixetty.woff?e0a05a7806f91c68b4a3fbda3d984ead") format("woff"),
+url("https://vigneshkannan52.github.io/pixetty/wp-content/themes/pixetty/fonts/pixetty-icons/pixetty.woff2?e0a05a7806f91c68b4a3fbda3d984ead") format("woff2");
+}
+
+i[class^="pixetty-icon-"]:before, i[class*=" pixetty-icon-"]:before {
+    font-family: pixetty !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.pixetty-icon-arrow-down:before {
+    content: "\f101";
+}
+.pixetty-icon-close:before {
+    content: "\f102";
+}
+.pixetty-icon-mail:before {
+    content: "\f103";
+}
+.pixetty-icon-phone:before {
+    content: "\f104";
+}
+.pixetty-icon-reply:before {
+    content: "\f105";
+}
+.pixetty-icon-trash:before {
+    content: "\f106";
+}
